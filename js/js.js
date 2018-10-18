@@ -48,7 +48,6 @@
       
     }
 
-
-function refresh(){     
+document.getElementById('butt').onclick = function (){     
     location.reload();    
 }
